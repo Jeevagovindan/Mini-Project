@@ -1,0 +1,31 @@
+-> I will show you a high level introduction to Machine Learning in this video.
+-> Imagine that you obtained a dataset of characteristics of thousands of human cell samples from patients who were thought to be at risk of developing cancer.
+-> You can use the values of the cell characteristics in other patients to give an indication of whether the sample is benign or cancer-causing.
+-> You should clean your data, train your model to understand benign and malignant cells, and pick a proper prediction model.
+-> The model can be used to predict a new cell with a high accuracy once it has been trained.
+-> This is machine learning.
+-> It is the way that a machine learning model can help a doctor make the process quicker.
+-> Let me give you a formal definition of machine learning.
+-> Machine learning is the subfield of computer science that gives computers the ability to learn without being explicitly programmed.
+-> Each image would be transformed into a picture of features.
+-> This is when machine learning began.
+-> Machine learning allows us to build a model that learns the pattern of each animal, and looks at all the feature sets and their corresponding type of animals.
+-> It is a model that is learned.
+-> The process that a child uses to learn, understand, and differentiate animals is the same process that machine learning follows.
+-> Machine learning is a process that learns from data and allows computers to find hidden insights.
+-> Machine Learning is having a very influential effect on society.
+-> They use machine learning to make suggestions.
+-> They use machine learning to predict the probability of default for each person and then approve or refuse the loan application.
+-> Machine learning can be used in many ways in our daily lives, such as face recognition in computer games, or logging into our phones using machine learning.
+-> Each uses different machine learning techniques.
+-> The Regression/Estimation technique is used for predicting a continuous value, for example, predicting the price of a house based on its characteristics, or estimating the Co2 emission from a car's engine.
+-> If a cell is benign or not, a classification technique is used to determine the class or category of the case.
+-> For example, clustering groups of similar cases can be used to find similar patients or to segment customers in the banking field.
+-> For example, grocery items that are usually bought together by a particular customer are often found using association technique.
+-> I am pretty sure that you have asked, "What is the difference between Artificial intelligence, Machine Learning and Deep Learning?"
+-> Machine Learning covers the statistical part of artificial intelligence.
+-> It teaches the computer to solve problems by looking at hundreds or thousands of examples, learning from them, and then using that experience to solve the same problem in new situations.
+-> Machine Learning is a field where computers can learn and make decisions on their own.
+-> Machine learning is a good way to learn, but deep learning is a better way to learn.
+-> The first video will focus on learning about the purpose of Machine Learning and where it can be applied in the real world, while the second will show you how Machine Learning can be used in the real world.
+-> Let's continue our exploration of Machine Learning now that we have a sense of what's in store!
